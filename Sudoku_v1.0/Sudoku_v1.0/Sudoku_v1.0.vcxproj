@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9CA2EDC7-7CBA-4513-A8F8-43AE16244351}</ProjectGuid>
+    <ProjectGuid>{2A5B20BD-E6E1-4171-B155-512639BFB623}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Sudoku_v10</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
@@ -142,41 +142,40 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="..\Sudoku_Juliane&amp;Wiliam\Debug\jogoSalvo.txt" />
-    <Text Include="..\Sudoku_Juliane&amp;Wiliam\Debug\matrizAuxiliarSalva.txt" />
-    <Text Include="..\Sudoku_Juliane&amp;Wiliam\Debug\Sudoku_v1.0.log" />
+    <Text Include="Debug\jogoSalvo.txt" />
+    <Text Include="Debug\matrizAuxiliarSalva.txt" />
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\AbrirJogoSalvo.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\EmbaralhaMatriz.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\EmbaralhaMatrizExemplo.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\EspacosVazios.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\ImprimeMatriz.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\main.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\Menu.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\SalvarJogo.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\TrocaColunaLinha.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\TrocaLinhaHorizontal.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\TrocaLinhaVertical.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\VerificaCasasVazias.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\VerificaMatriz.c" />
-    <ClCompile Include="..\Sudoku_Juliane&amp;Wiliam\Debug\VerificaMatrizMenor.c" />
+    <ClCompile Include="Debug\AbrirJogoSalvo.c" />
+    <ClCompile Include="Debug\EmbaralhaMatriz.c" />
+    <ClCompile Include="Debug\EmbaralhaMatrizExemplo.c" />
+    <ClCompile Include="Debug\EspacosVazios.c" />
+    <ClCompile Include="Debug\ImprimeMatriz.c" />
+    <ClCompile Include="Debug\main.c" />
+    <ClCompile Include="Debug\Menu.c" />
+    <ClCompile Include="Debug\SalvarJogo.c" />
+    <ClCompile Include="Debug\TrocaColunaLinha.c" />
+    <ClCompile Include="Debug\TrocaLinhaHorizontal.c" />
+    <ClCompile Include="Debug\TrocaLinhaVertical.c" />
+    <ClCompile Include="Debug\VerificaCasasVazias.c" />
+    <ClCompile Include="Debug\VerificaMatriz.c" />
+    <ClCompile Include="Debug\VerificaMatrizMenor.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\AbrirJogoSalvo.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\EmbaralhaMatriz.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\EmbaralhaMatrizExemplo.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\EspacosVazios.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\ImprimeMatriz.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\Menu.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\SalvarJogo.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\TrocaColunaLinha.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\TrocaLinhaHorizontal.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\TrocaLinhaVertical.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\VerificaCasasVazias.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\VerificaMatriz.h" />
-    <ClInclude Include="..\Sudoku_Juliane&amp;Wiliam\Debug\VerificaMatrizMenor.h" />
+    <ClInclude Include="Debug\AbrirJogoSalvo.h" />
+    <ClInclude Include="Debug\EmbaralhaMatriz.h" />
+    <ClInclude Include="Debug\EmbaralhaMatrizExemplo.h" />
+    <ClInclude Include="Debug\EspacosVazios.h" />
+    <ClInclude Include="Debug\ImprimeMatriz.h" />
+    <ClInclude Include="Debug\Menu.h" />
+    <ClInclude Include="Debug\SalvarJogo.h" />
+    <ClInclude Include="Debug\TrocaColunaLinha.h" />
+    <ClInclude Include="Debug\TrocaLinhaHorizontal.h" />
+    <ClInclude Include="Debug\TrocaLinhaVertical.h" />
+    <ClInclude Include="Debug\VerificaCasasVazias.h" />
+    <ClInclude Include="Debug\VerificaMatriz.h" />
+    <ClInclude Include="Debug\VerificaMatrizMenor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

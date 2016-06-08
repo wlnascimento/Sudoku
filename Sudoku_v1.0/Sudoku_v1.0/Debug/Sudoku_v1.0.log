@@ -1,1 +1,70 @@
-﻿  Sudoku_v1.0.vcxproj -> C:\Users\Wiliam Lucas\Documents\FACULDADE\Students 2 Business\2016\Trilha Testes - TFinal\Projeto Final\Sudoku_v1.0\Debug\Sudoku_v1.0.exe
+﻿  VerificaMatrizMenor.c
+  VerificaMatriz.c
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(141): warning C4033: 'VerificaMatriz' must return a value
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(11): warning C4101: 'retMariz': unreferenced local variable
+  VerificaCasasVazias.c
+  TrocaLinhaVertical.c
+  TrocaLinhaHorizontal.c
+  TrocaColunaLinha.c
+  SalvarJogo.c
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\salvarjogo.c(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\salvarjogo.c(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Menu.c
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(51): warning C4013: 'EmbaralhaMatriz' undefined; assuming extern returning int
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(55): warning C4013: 'VerificaMatriz' undefined; assuming extern returning int
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(62): warning C4013: 'ImprimeMatriz' undefined; assuming extern returning int
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(69): warning C4033: 'Menu' must return a value
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(93): warning C4013: 'AbrirJogoSalvo' undefined; assuming extern returning int
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(122): warning C4033: 'Menu' must return a value
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(149): warning C4033: 'Menu' must return a value
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(155): warning C4033: 'Menu' must return a value
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(159): warning C4033: 'Menu' must return a value
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(133): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  main.c
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\main.c(22): warning C4101: 'retMatriz': unreferenced local variable
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\main.c(22): warning C4101: 'x': unreferenced local variable
+  ImprimeMatriz.c
+  EspacosVazios.c
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\espacosvazios.c(10): warning C4013: 'time' undefined; assuming extern returning int
+  EmbaralhaMatrizExemplo.c
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\embaralhamatrizexemplo.c(16): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\embaralhamatrizexemplo.c(30): warning C4013: 'TrocaLinhaHorizontal' undefined; assuming extern returning int
+  EmbaralhaMatriz.c
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\embaralhamatriz.c(16): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\embaralhamatriz.c(38): warning C4013: 'TrocaLinhaHorizontal' undefined; assuming extern returning int
+  AbrirJogoSalvo.c
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\abrirjogosalvo.c(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\abrirjogosalvo.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\abrirjogosalvo.c(27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\abrirjogosalvo.c(28): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  Generating Code...
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\menu.c(161): warning C4715: 'Menu': not all control paths return a value
+c:\users\wiliam lucas\documents\faculdade\students 2 business\2016\trilha testes - tfinal\projeto final\sudoku_v1.0\sudoku_v1.0\debug\verificamatriz.c(142): warning C4715: 'VerificaMatriz': not all control paths return a value
+  Sudoku_v1.0.vcxproj -> C:\Users\Wiliam Lucas\Documents\FACULDADE\Students 2 Business\2016\Trilha Testes - TFinal\Projeto Final\Sudoku_v1.0\Debug\Sudoku_v1.0.exe
